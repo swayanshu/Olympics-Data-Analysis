@@ -29,7 +29,7 @@ Medal - Gold, Silver, Bronze, or NA
 # Results
 ![](/Images/EDA.png)
 
-![](/Images/Heightvs weight.png)
+![](/Images/Heightvsweight.png)
 
 ![](/Images/Maps.png)
 
